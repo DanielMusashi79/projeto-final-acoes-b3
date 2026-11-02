@@ -1,0 +1,14 @@
+# Ambiente Virtual
+.venv/
+venv/
+ENV/
+
+# Arquivos de Sistema e IDE
+.vscode/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Variáveis de Ambiente e Segredos
+.env
+.streamlit/secrets.toml
