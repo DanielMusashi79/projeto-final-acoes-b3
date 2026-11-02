@@ -7,6 +7,8 @@ Painel executivo interativo desenvolvido em Python e Streamlit para análise de 
 ## 1. Título e Resumo Executivo
 * **Nome da Solução:** BI Analytics Financeiro - B3 Performance Tracker
 * **Resumo:** Aplicação corporativa desenvolvida para apoiar investidores e analistas na avaliação de rentabilidade, volatilidade, drawdowns e tendências de ativos líquidos da B3 entre os anos de 2021 e 2023.
+## Demonstração Visual do Painel
+![Dashboard B3](img/dashboard.png)
 
 ## 2. Contexto de Negócio e Pergunta Orientadora
 * **Desafio:** No mercado de capitais moderno, a tomada de decisão baseada em evidências estatísticas e visuais é crucial. Este projeto responde a perguntas fundamentais de negócio, como: *Qual seria a rentabilidade comparativa de um capital investido no início de 2021? Quais ativos entregaram a melhor relação de risco-retorno e menor drawdown?*
