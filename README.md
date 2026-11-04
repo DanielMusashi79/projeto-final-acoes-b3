@@ -42,7 +42,7 @@ Painel executivo interativo desenvolvido em Python e Streamlit para análise de 
 * Mensuração precisa do risco através da volatilidade anualizada e curvas de drawdown máximo.
 
 ## 8. Discussão e Limitações da Análise
-* *Limitação:* Os resultados refletem o comportamento histórico de 2021 a 2023[cite: 1], não garantindo rentabilidade futura. Relações estatísticas observadas não implicam causalidade direta sem análise macroeconômica complementar.
+* *Limitação:* Os resultados refletem o comportamento histórico de 2021 a 2023, não garantindo rentabilidade futura. Relações estatísticas observadas não implicam causalidade direta sem análise macroeconômica complementar.
 
 ## 9. Aplicação Profissional e Decisões de Negócio
 * O painel serve como ferramenta de suporte para gestores de portfólio e analistas de investimentos na rápida triagem de desempenho setorial e de papéis na B3.
@@ -59,4 +59,3 @@ Painel executivo interativo desenvolvido em Python e Streamlit para análise de 
 * **Quadro Kanban (Trello - Público):** [https://trello.com/b/uSCURscW/meu-quadro-do-trello]
 * **Print do Quadro Trello (Kanban):**
   ![Quadro Trello](img/trello.png)
-* **Link do Vídeo de Apresentação (Pitch):** [Inserir link do vídeo executivo]
